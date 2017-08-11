@@ -1,5 +1,5 @@
 # NotificationResultChecker
-Program to check for failed notifications in a OnBase system
+Program to check for failed notifications in a OnBase system.  Against the OnBase Database
 
 This application polls the hsi.distributionhist table, specifically looking for a -1 value in the requeststatus.  Once it finds that it will be printed on the text file.  What you choose to do with the text file is up to you.  Program can modified to output the data in different formats.
 
