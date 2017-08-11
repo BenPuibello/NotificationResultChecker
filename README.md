@@ -14,3 +14,4 @@ Program variables stored in app.config:
 4) 'dbConnection' = This is the connection to the database.
 
 You must cconfigure 1, 2, 4 for your system.    
+
